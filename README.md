@@ -7,8 +7,6 @@
 
 ☕ If my work encourages or helps you, feel free to support me 👇
 
-<a href="https://buymeacoffee.com/ochis">
-  <img src="https://github.com/user-attachments/assets/6d7f20ad-82df-4d38-aeed-73cdcd1f0e38" alt="Buy Me A Coffee" height="45">
-</a>
+<a href="https://www.buymeacoffee.com/ochis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 [![Live](https://img.shields.io/badge/Visit_👉-ovidiuchis.github.io-%23FFDD00?style=for-the-badge)](https://ovidiuchis.github.io/)

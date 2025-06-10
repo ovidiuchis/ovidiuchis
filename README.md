@@ -1,8 +1,8 @@
 ### Hello there! 👋
 
-- 🔭 My mission is helping companies go paperless and confidently embrace digital tools. Learn more [here](https://asw.ro/).
-- 💡 I'm passionate about solving real-life problems by creating practical and effective tech solutions.
-- ✝️ I'm enthusiastic about leveraging technology to advance the Gospel and serve communities.
+- 🔭 My mission is **helping companies go paperless** and confidently embrace digital tools. Learn more [here](https://asw.ro/).
+- 💡 I'm passionate about **solving real-life problems** by creating practical and effective tech solutions.
+- ✝️ I'm enthusiastic about **leveraging technology to advance the Gospel** and serve communities.
 - ⚡ Fun fact: I ❤️ writing utensils, particularly Japanese stationery. Check out [Uni-Mitsubishi pencils](https://www.uniball.com/home/index.html) or [Pentel](http://www.pentelworld.com/).
 
 ☕ If my work encourages or helps you, feel free to support me 👇

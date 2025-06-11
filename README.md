@@ -5,7 +5,7 @@
 - ✝️ I'm enthusiastic about **leveraging technology to advance the Gospel** and serve communities.
 - ⚡ Fun fact: I ❤️ writing utensils, particularly Japanese stationery. 
 
-☕ If my work encourages or helps you, feel free to support me 👇
+☕ If my work encourages or helps you 👇
 
 <a href="https://www.buymeacoffee.com/ochis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 48px !important;width: 173px !important;" ></a>
 

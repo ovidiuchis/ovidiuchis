@@ -9,4 +9,4 @@
 
 <a href="https://www.buymeacoffee.com/ochis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 48px !important;width: 173px !important;" ></a>
 
-[![Live](https://img.shields.io/badge/Visit_👉-ovidiuchis.github.io-%23FFDD00?style=for-the-badge)](https://ovidiuchis.github.io/)
+[![Live](https://img.shields.io/badge/Visit_👉-ovidiuchis.ro-%23FFDD00?style=for-the-badge)](https://ovidiuchis.ro/)
